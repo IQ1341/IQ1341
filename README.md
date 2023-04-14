@@ -1,19 +1,19 @@
-# Hi there, I'm Muhammad - iqbal [muhammadiqbal](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Muhammad - iqbal [muhammadiqbal](https://instagram.com/iq_1341__) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🔭 I’m currently Student at [Jember State politecnic](http://polije.ac.id/)
+- 🌱 I’m currently learning Python,Javascript,HTML,PHP,
+- 👯 I’m looking to collaborate as Web Developer
+- 🤔 I’m looking for suggest for Web Developer and UI/UX Designer
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: mi4120196@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Jember State Politecnic](http://polije.ac.id/) | Associate's degree computer Engineering | Jember `2022-2025`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMK N 1 Panji Situbondo](https://www.sman1kebumen.sch.id) | TKJ | Situbondo `2019-2022`
    - Chief of Rohkris
 
 ## Work Experience:
