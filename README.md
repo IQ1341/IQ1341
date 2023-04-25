@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad - iqbal [muhammadiqbal](https://instagram.com/iq_1341__) 👋
 ## About me:
 - 🔭 I’m currently Student at [Jember State politecnic](http://polije.ac.id/)
-- 🌱 I’m currently learning Python,Javascript,HTML,PHP,
+- 🌱 I’m currently learning Python,Javascript,HTML,PHP,Laravel
 - 👯 I’m looking to collaborate as Web Developer
 - 🤔 I’m looking for suggest for Web Developer and UI/UX Designer
 - 💬 Ask me about anything
@@ -9,22 +9,24 @@
 
 ## Education:
 
-#### 1. [Jember State Politecnic](http://polije.ac.id/) | Associate's degree computer Engineering | Jember `2022-2025`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMK N 1 Panji Situbondo](https://www.sman1kebumen.sch.id) | TKJ | Situbondo `2019-2022`
-   - Chief of Rohkris
+#### 1. [Jember State Politecnic](http://polije.ac.id/) | Associate's degree computer Engineering | Jember 
+   - Member of UKM ROBOTIKA
+#### 2. [SMK Negeri 1 Panji Situbondo](https://www.sman1kebumen.sch.id) | TKJ | Situbondo `2019-2022`
+   - 
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+## Experience:
+#### 1. [Junior Network Administrator Training](https://digitalent.kominfo.go.id/) | Jember `18 July - 29 August 2022`
+   - Design LAN, WAN, and MAN network topologies
+#### 2. [Following the Network administrator Competency Certification](https://bnsp.go.id/) | Network Engineer | Yogyakarta `1 November 2022`
+   - Designing the Network Topology
+   - Collecting Technical Requirements of Users Using the Network
+   - Determining Network Device Specifications
+   - Designing Network Addressing
+   - Installing a Wireless Network
+   - Configuring Switches on a Network
+   - Configuring Routing on Network Devices in One Autonomous System
+   - Configuring Routing on Network Devices between Autonomous Systems
+   
 ---
 
 ### Languages and Tools:
