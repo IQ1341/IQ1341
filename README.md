@@ -40,7 +40,7 @@
 ### Connect with me:
 
 
-[website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+
 
 
 
