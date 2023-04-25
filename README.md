@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad - iqbal [muhammadiqbal](https://instagram.com/iq_1341__) 👋
+# Hi there, I'm Muhammad - iqbal [iq_1341__](https://instagram.com/iq_1341__) 👋
 ## About me:
 - 🔭 I’m currently Student at [Jember State politecnic](http://polije.ac.id/)
 - 🌱 I’m currently learning Python,Javascript,HTML,PHP,Laravel
@@ -39,18 +39,10 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
 
