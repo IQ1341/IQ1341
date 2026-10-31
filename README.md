@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" width="100%" />
 
-<h1 align="center">MUHAMMAD IQBAL</h1>
+<h1 align="center">Muhammad Iqbal</h1>
 
 <p align="center">Software Engineer | IoT &amp; Backend</p>
 
@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/iq134l03"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
 <a href="mailto:muhammadiqb4l03@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
-<a href="https://muhammadiqbalportfolio.my.id.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
+<a href="https://muhammadiqbalportfolio.my.id"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=IQ1341&style=flat-square&color=30363d&labelColor=0d1117&label=Profile+Views" />
@@ -80,16 +80,17 @@ Software engineer dengan fokus pada **Internet of Things** dan **backend enginee
 
 <div align="center">
 
-<img src="./metrics.stats.svg" alt="Statistik GitHub" width="49%" />
-<img src="./metrics.languages.svg" alt="Bahasa pemrograman" width="49%" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profil GitHub" width="49%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Statistik GitHub" width="49%" />
 
 <br/>
 
-<img src="./metrics.calendar.svg" alt="Kalender kontribusi" width="100%" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repository per bahasa" width="49%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Bahasa terbanyak di commit" width="49%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/IQ1341/IQ1341/output/github-snake.svg" alt="Contribution snake" width="100%" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Waktu produktif" width="49%" />
 
 </div>
 
