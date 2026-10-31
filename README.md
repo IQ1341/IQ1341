@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Nama%20Kamu&fontSize=54&fontColor=c9d1d9&fontAlignY=40&desc=Software%20Engineer%20%7C%20IoT%20%26%20Backend&descSize=18&descColor=747b82&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=MUHAMMAD%20IQBAL&fontSize=54&fontColor=c9d1d9&fontAlignY=40&desc=Software%20Engineer%20%7C%20IoT%20%26%20Backend&descSize=18&descColor=747b82&descAlignY=62" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=58a6ff&center=true&vCenter=true&width=560&lines=Membangun+sistem+IoT+yang+andal;Merancang+backend+yang+scalable;Dari+sensor+hingga+cloud" alt="Typing SVG" />
@@ -8,12 +8,12 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/username-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
-<a href="mailto:email@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
-<a href="https://portofolio.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/iq134l03"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
+<a href="mailto:muhammadiqb4l03@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
+<a href="https://https://muhammadiqbalportfolio.my.id"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=30363d" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=username-github&style=flat-square&color=30363d&labelColor=0d1117&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=https://github.com/IQ1341&style=flat-square&color=30363d&labelColor=0d1117&label=Profile+Views" />
 
 </div>
 
@@ -65,10 +65,10 @@ Software engineer dengan fokus pada **Internet of Things** dan **backend enginee
 
 | Proyek | Deskripsi | Teknologi |
 |--------|-----------|-----------|
-| [**smart-monitoring**](https://github.com/username-github/smart-monitoring) | Deskripsi singkat proyek | Teknologi utama |
-| [**iot-backend-api**](https://github.com/username-github/iot-backend-api) | Deskripsi singkat proyek | Teknologi utama |
-| [**smart-home-gateway**](https://github.com/username-github/smart-home-gateway) | Deskripsi singkat proyek | Teknologi utama |
-| [**mqtt-gateway**](https://github.com/username-github/mqtt-gateway) | Deskripsi singkat proyek | Teknologi utama |
+| [**smart-monitoring**](https://github.com/https://github.com/IQ1341/smart-monitoring) | Deskripsi singkat proyek | Teknologi utama |
+| [**iot-backend-api**](https://github.com/https://github.com/IQ1341/iot-backend-api) | Deskripsi singkat proyek | Teknologi utama |
+| [**smart-home-gateway**](https://github.com/https://github.com/IQ1341/smart-home-gateway) | Deskripsi singkat proyek | Teknologi utama |
+| [**mqtt-gateway**](https://github.com/https://github.com/IQ1341/mqtt-gateway) | Deskripsi singkat proyek | Teknologi utama |
 
 ---
 
@@ -82,10 +82,6 @@ Software engineer dengan fokus pada **Internet of Things** dan **backend enginee
 <br/>
 
 <img src="./metrics.calendar.svg" alt="Kalender kontribusi" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/username-github/username-github/output/github-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
